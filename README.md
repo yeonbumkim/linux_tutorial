@@ -97,6 +97,3 @@ python linux_simulator.py
 - 이 프로그램은 실제 리눅스 시스템이 아닌 시뮬레이션 환경입니다.
 - 모든 명령어는 실제 Windows 파일 시스템에서 실행됩니다.
 - 일부 고급 리눅스 명령어는 지원되지 않습니다. 
-=======
-# linux_tutorial
->>>>>>> 739db8bd71ab4d6fd4790fe43876e5b0b0d3a810
